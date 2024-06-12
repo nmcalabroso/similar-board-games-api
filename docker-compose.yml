@@ -1,0 +1,17 @@
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app
+    command: python -m flask run --debug --host=0.0.0.0
+    env_file: .env
+    ports:
+      - 8081:5000
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgresql://postgres:password@db:5432/postgres
+  db:
+    image: postgres:16
+    environment:
+      - POSTGRES_PASSWORD=password
