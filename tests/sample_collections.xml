@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items totalitems="2" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Wed, 12 Jun 2024 19:05:14 +0000">
+    <item objecttype="thing" objectid="172242" subtype="boardgame" collid="120164837">
+        <name sortindex="1">Exploding Kittens: NSFW Deck</name>
+        <yearpublished>2015</yearpublished>
+        <image>https://cf.geekdo-images.com/qsvkRPq0sPATRiieLMKiQQ__original/img/sfCjazSdTyQHH_2Z9j4TO4fXdO8=/0x0/filters:format(jpeg)/pic7022744.jpg</image>
+        <thumbnail>https://cf.geekdo-images.com/qsvkRPq0sPATRiieLMKiQQ__thumb/img/RCdrPqv7PZ9cIsQmwXvaHbUlpC4=/fit-in/200x150/filters:strip_icc()/pic7022744.jpg</thumbnail>
+        <stats minplayers="2" maxplayers="5" minplaytime="10" maxplaytime="20" playingtime="20" numowned="29128">
+            <rating value="7">
+                <usersrated value="10092" />
+                <average value="6.23473" />
+                <bayesaverage value="5.96818" />
+                <stddev value="1.76091" />
+                <median value="0" />
+                <ranks>
+                    <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3073" bayesaverage="5.96818" />
+                    <rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="398" bayesaverage="5.85073" />
+                </ranks>
+            </rating>
+        </stats>
+        <status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0" preordered="0" lastmodified="2024-06-12 14:04:27" />
+        <numplays>0</numplays>
+    </item>
+    <item objecttype="thing" objectid="30549" subtype="boardgame" collid="120157394">
+        <name sortindex="1">Pandemic</name>
+        <yearpublished>2008</yearpublished>
+        <image>https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__original/img/IsrvRLpUV1TEyZsO5rC-btXaPz0=/0x0/filters:format(jpeg)/pic1534148.jpg</image>
+        <thumbnail>https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__thumb/img/oqViRj6nVxK3m36NluTxU1PZkrk=/fit-in/200x150/filters:strip_icc()/pic1534148.jpg</thumbnail>
+        <stats minplayers="2" maxplayers="4" minplaytime="45" maxplaytime="45" playingtime="45" numowned="203179">
+            <rating value="8">
+                <usersrated value="125456" />
+                <average value="7.53604" />
+                <bayesaverage value="7.42999" />
+                <stddev value="1.33538" />
+                <median value="0" />
+                <ranks>
+                    <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="147" bayesaverage="7.42999" />
+                    <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="160" bayesaverage="7.3517" />
+                    <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="30" bayesaverage="7.41427" />
+                </ranks>
+            </rating>
+        </stats>
+        <status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0" preordered="0" lastmodified="2024-06-12 09:21:08" />
+        <numplays>0</numplays>
+    </item>
+</items>
